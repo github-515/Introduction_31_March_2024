@@ -1,0 +1,10 @@
+Create a jar file
+
+1. Go to your project do a right click, select export & in this window you can start typing jar
+2. you will get runnable jar file & click "Next"
+3. Export destination
+
+Run Jar from command line.
+
+1. Go to the jar file location & open a terminal
+2. java -jar abcd.jar
